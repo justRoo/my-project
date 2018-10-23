@@ -1,0 +1,16 @@
+
+.color{
+  background-color:#000;
+}
+.img{
+  background:url(c1c3ce8c9e6cf979f5751db0e2ba7cee.png) no-repeat;
+  height:50px;
+}
+.color{
+  color:red;
+}
+.img-box{
+  height:50px;
+  background:url(c1c3ce8c9e6cf979f5751db0e2ba7cee.png) no-repeat;
+  transform:translate(50%,0)
+}

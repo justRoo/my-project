@@ -1,0 +1,10 @@
+body,p,span,b,i,ul,li,ol,div,strong,hr,input,textarea,form{
+  margin:0;
+  padding:0;
+}
+ul,li,ol{
+  list-style: none;
+}
+input:hover{
+  border:none;
+}
